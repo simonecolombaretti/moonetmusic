@@ -3,15 +3,15 @@
 		<loc>http://moonetmusic.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://moonetmusic.com/page2.html</loc>
-	</url>
-	<url>
-		<loc>http://moonetmusic.com/page3.html</loc>
-	</url>
-	<url>
-		<loc>http://moonetmusic.com/page4.html</loc>
-	</url>
-	<url>
 		<loc>http://moonetmusic.com/policy.html</loc>
+	</url>
+	<url>
+		<loc>http://moonetmusic.com/contacts.html</loc>
+	</url>
+	<url>
+		<loc>http://moonetmusic.com/gallery.html</loc>
+	</url>
+	<url>
+		<loc>http://moonetmusic.com/about.html</loc>
 	</url>
 </urlset>
